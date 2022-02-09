@@ -1,10 +1,10 @@
 {
     "name": "Youtube Stream 24/7 #techcode ",
-    "description": "Deploy noVNC to Heroku.",
+    "description": "Deploy noNC to Heroku.",
     "keywords": [
-        "VNC",
+        "NC",
         "Docker",
-        "noVNC"
+        "noNC"
     ],
     "env": {},
     "website": "",
